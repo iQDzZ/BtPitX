@@ -1,7 +1,8 @@
 # Bringing the P into the X
 ## definition, Windows XP virtualiZation, adapting the core image with up-to-date use-case-scenarioZ
 
-#### setting up the Virtual Machine, ~ QEMU, linux > arch-distro
+### setting up the Virtual Machine, ~ QEMU, linux > arch-distro
+
 
 qemu-system-x86_64 \\
 
@@ -25,8 +26,10 @@ qemu-system-x86_64 \\
 
 -usb -device usb-tablet
 
+
 #### Example of a running client
 <img src='QEMU_virtualGuest_ex1.png'>
+
 
 #### Example of the installation with the modded drivers
 <img src='QEMU_virtualGuest_ex2.png'>
