@@ -26,21 +26,12 @@ qemu-system-x86_64 \\
 
 -usb -device usb-tablet
 
-###
-
-
-#### Example of a running client
+## Example of a running client
 
 <img src='QEMU_virtualGuest_ex1.png'>
 
-####
-
-
-
-#### Example of the installation with the modded drivers
+## Example of the installation with the modded drivers
 
 <img src='QEMU_virtualGuest_ex2.png'>
-
-####
  
 
