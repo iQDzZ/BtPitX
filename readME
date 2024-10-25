@@ -13,5 +13,8 @@ qemu-system-x86_64 \
 -drive id=boot,file=winXPserverAHCI.qcow2,index=3,media=disk,format=qcow2,if=none -device ide-hd,drive=boot,bus=ahci.0 \
 -vga qxl -display gtk \
 -usb -device usb-tablet
+
+#### ExampleZ
+![windows server "2003 data centar x64" running custom AHCI drivers](https://github.com/iQDzZ/BtPitX/blob/main/QEMU_virtualGuest_ex1.png)
  
 
