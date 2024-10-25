@@ -15,6 +15,6 @@ qemu-system-x86_64 \
 -usb -device usb-tablet
 
 #### ExampleZ
-![windows server "2003 data centar x64" running custom AHCI drivers](https://github.com/iQDzZ/BtPitX/blob/main/QEMU_virtualGuest_ex1.png)
+![plot](https://github.com/iQDzZ/BtPitX/blob/main/QEMU_virtualGuest_ex1.png)
  
 
