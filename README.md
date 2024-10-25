@@ -4,7 +4,9 @@
 #### setting up the Virtual Machine, ~ QEMU, linux > arch-distro
 
 qemu-system-x86_64 \\
--M pc-q35-2.9 -cpu max -smp sockets=1,cores=1,threads=2 -m 4096 -enable-kvm \
+
+-M pc-q35-2.9 -cpu max -smp sockets=1,cores=1,threads=2 -m 4096 -enable-kvm \\
+
 -boot menu=on \
 -drive file=floppyX64modAHCI.img,if=floppy,index=0,format=raw \
 -drive file=en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47474.iso,index=1,media=cdrom \
