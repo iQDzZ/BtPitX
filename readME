@@ -15,6 +15,6 @@ qemu-system-x86_64 \
 -usb -device usb-tablet
 
 #### ExampleZ
-![alt text](https://github.com/iQDzZ/BtPitX/blob/main/QEMU_virtualGuest_ex1.png)
+![screenshot](https://github.com/iQDzZ/BtPitX/blob/main/QEMU_virtualGuest_ex1.png)
  
 
