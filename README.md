@@ -14,7 +14,10 @@ qemu-system-x86_64 \
 -vga qxl -display gtk \
 -usb -device usb-tablet
 
-#### ExampleZ
+#### Example of a running client
 <img src='QEMU_virtualGuest_ex1.png'>
+
+#### Example of the installation with the modded drivers
+<img src='QEMU_virtualGuest_ex2.png'>
  
 
