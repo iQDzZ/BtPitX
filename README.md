@@ -3,7 +3,7 @@
 
 #### setting up the Virtual Machine, ~ QEMU, linux > arch-distro
 
-qemu-system-x86_64 \
+qemu-system-x86_64 \\
 -M pc-q35-2.9 -cpu max -smp sockets=1,cores=1,threads=2 -m 4096 -enable-kvm \
 -boot menu=on \
 -drive file=floppyX64modAHCI.img,if=floppy,index=0,format=raw \
