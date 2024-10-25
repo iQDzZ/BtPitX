@@ -1,7 +1,7 @@
 # Bringing the P into the X
 ## definition, Windows XP virtualiZation, adapting the core image with up-to-date use-case-scenarioZ
 
-### setting up the Virtual Machine, ~ QEMU, linux > arch-distro
+## setting up the Virtual Machine, ~ QEMU, linux > arch-distro
 
 
 qemu-system-x86_64 \\
